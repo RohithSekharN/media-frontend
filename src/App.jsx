@@ -5,7 +5,7 @@ import Footer from './Components/Footer'
 import { Route, Routes } from 'react-router-dom'
 import LandingPage from './Pages/Landingpage'
 import Home from './Pages/Home'
-import WatchHistory from './Pages/WatchHistory'
+import WatchHistory from './Pages/Watchhistory'
 
 function App() {
 
